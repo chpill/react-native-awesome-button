@@ -38,7 +38,6 @@ ButtonView.propTypes = {
   backgroundStyle: PropTypes.array,
   labelStyle: PropTypes.object,
   spinnerProps: PropTypes.object,
-  text: PropTypes.string,
   onPress: PropTypes.func,
   spinner: PropTypes.bool,
   disabled: PropTypes.bool,
